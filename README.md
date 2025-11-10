@@ -54,6 +54,10 @@ DeepSeek-OCR is a powerful optical character recognition (OCR) system that lever
      ```bash
      nexa run NexaAI/DeepSeek-OCR-GGUF
      ```
+   - Start the server
+    ```bash
+     nexa serve
+    ```
    - Follow the on-screen instructions to start the local inference server
 
 ---
