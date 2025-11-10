@@ -1,5 +1,3 @@
-# DeepSeek-OCR
-
 <p align="center">
   <img src="https://sdk.nexa.ai/_next/static/media/logo.110a33d5.svg" alt="Nexa AI Logo" width="180" style="filter: brightness(0) invert(0);"/>
 </p>
