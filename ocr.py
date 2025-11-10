@@ -44,7 +44,7 @@ def ocr_image_from_url(image_url: str) -> str:
 # Example usage
 if __name__ == "__main__":
     # Replace with your actual image URL
-    image_url = r"C:\Users\ijona\Desktop\DeepSeek-OCR\images\table.png"
+    image_url = r"C:\DeepSeek-OCR\images\table.png"
     
     result = ocr_image_from_url(image_url)
     print(result)
