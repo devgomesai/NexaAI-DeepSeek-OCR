@@ -73,18 +73,16 @@ pip install -e .
 
 ### 4. Install and Set up NexaAI Server
 
-1. Install the NexaAI SDK:
-   ```bash
-   pip install nexaai
-   ```
-
-2. Download the DeepSeek-OCR model:
+1. Download Nexa CLI with one click:
+  Refer this link [nexa_sdk](https://github.com/NexaAI/nexa-sdk) for installation
+  
+3. Download the DeepSeek-OCR model:
    ```bash
    nexa run NexaAI/DeepSeek-OCR-GGUF
    ```
    Follow the prompts to complete the model download.
 
-3. Start the NexaAI server:
+4. Start the NexaAI server:
    ```bash
    nexa serve
    ```
