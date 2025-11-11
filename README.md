@@ -6,14 +6,6 @@
   <em>Powerful OCR solution using DeepSeek-OCR model served via NexaAI with a Chainlit web interface</em>
 </p>
 
-<p align="center">
-  <a href="#overview"><strong>Overview</strong></a> •
-  <a href="#features"><strong>Features</strong></a> •
-  <a href="#installation"><strong>Installation</strong></a> •
-  <a href="#usage"><strong>Usage</strong></a> •
-  <a href="#configuration"><strong>Configuration</strong></a>
-</p>
-
 ---
 
 ## 📋 Overview
@@ -290,9 +282,6 @@ We welcome contributions to the DeepSeek-OCR project! To contribute:
 
 Please ensure your code follows the project's coding standards and includes appropriate tests.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👏 Acknowledgments
 
